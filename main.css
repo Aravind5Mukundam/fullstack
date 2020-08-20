@@ -1,0 +1,60 @@
+/* Task #1
+GIve the body element of the site with a light blue color using hexcode.*/
+
+body{
+
+  background-color:   #9dd4cf;
+}
+
+
+/* ask #2
+Give the h1 to have a 2px solid balck border  */
+
+h1{
+
+  border: 2px solid green;
+}
+
+
+
+/* task #3
+Make all h2 elements color purple */
+
+h3{
+  color:purple;
+}
+
+
+
+/* task #4
+Make all input boxes have the 2px solid dark red color (use rgb for this) */
+
+input{
+  border: 2px solid rgb(145, 0, 0);
+}
+
+
+/* task #5
+Give a light yellow background to all <p> elements
+ */
+
+ div p {
+ background:  yellow;
+}
+
+
+textarea{
+  border: 5px solid gray;
+  width: 600px;
+  height: 200px;
+}
+
+
+a{
+  color: red;
+}
+
+#itemone{
+  text-decoration: overline;
+  color: purple;
+}
